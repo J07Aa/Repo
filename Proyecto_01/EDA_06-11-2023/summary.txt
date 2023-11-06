@@ -1,0 +1,115 @@
+Variable: ID
+Tipo: int64
+Total de valores únicos: 135571
+Porcentaje de valores únicos: 50.00%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+Resumen variable numérica:
+Mínimo: 1
+Máximo: 135571
+Promedio: 68248.95439590434
+Percentil 25: 34643.0
+Percentil 50 (Median): 68205.0
+Percentil 75: 102097.25
+Percentil 100: 135571
+Cantidad de 0's: 0
+Porcentaje de 0's: 0.00%
+Cantidad de negativos: 0
+Porcentaje de negativos: 0.00%
+
+Variable: Name
+Tipo: object
+Total de valores únicos: 134732
+Porcentaje de valores únicos: 49.70%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Sex
+Tipo: object
+Total de valores únicos: 2
+Porcentaje de valores únicos: 0.00%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Team
+Tipo: object
+Total de valores únicos: 1184
+Porcentaje de valores únicos: 0.44%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: NOC
+Tipo: object
+Total de valores únicos: 230
+Porcentaje de valores únicos: 0.08%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Games
+Tipo: object
+Total de valores únicos: 51
+Porcentaje de valores únicos: 0.02%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Year
+Tipo: int64
+Total de valores únicos: 35
+Porcentaje de valores únicos: 0.01%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+Resumen variable numérica:
+Mínimo: 1896
+Máximo: 2016
+Promedio: 1978.3784800601957
+Percentil 25: 1960.0
+Percentil 50 (Median): 1988.0
+Percentil 75: 2002.0
+Percentil 100: 2016
+Cantidad de 0's: 0
+Porcentaje de 0's: 0.00%
+Cantidad de negativos: 0
+Porcentaje de negativos: 0.00%
+
+Variable: Season
+Tipo: object
+Total de valores únicos: 2
+Porcentaje de valores únicos: 0.00%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: City
+Tipo: object
+Total de valores únicos: 42
+Porcentaje de valores únicos: 0.02%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Sport
+Tipo: object
+Total de valores únicos: 66
+Porcentaje de valores únicos: 0.02%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Event
+Tipo: object
+Total de valores únicos: 765
+Porcentaje de valores únicos: 0.28%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Medal
+Tipo: object
+Total de valores únicos: 3
+Porcentaje de valores únicos: 0.00%
+Número de valores nulos: 231333
+Porcentaje de valores nulos: 85.33%
+
+Variable: age-height-weight
+Tipo: object
+Total de valores únicos: 82971
+Porcentaje de valores únicos: 30.60%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
