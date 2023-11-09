@@ -1,0 +1,165 @@
+Variable: ID
+Tipo: int64
+Total de valores únicos: 99088
+Porcentaje de valores únicos: 48.07%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+Resumen variable numérica:
+Mínimo: 1
+Máximo: 135571
+Promedio: 68615.7429809073
+Percentil 25: 35189.0
+Percentil 50 (Median): 68629.0
+Percentil 75: 102312.25
+Percentil 100: 135571
+Cantidad de 0's: 0
+Porcentaje de 0's: 0.00%
+Cantidad de negativos: 0
+Porcentaje de negativos: 0.00%
+
+Variable: Name
+Tipo: object
+Total de valores únicos: 98546
+Porcentaje de valores únicos: 47.80%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Sex
+Tipo: object
+Total de valores únicos: 2
+Porcentaje de valores únicos: 0.00%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Team
+Tipo: object
+Total de valores únicos: 660
+Porcentaje de valores únicos: 0.32%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: NOC
+Tipo: object
+Total de valores únicos: 226
+Porcentaje de valores únicos: 0.11%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Games
+Tipo: object
+Total de valores únicos: 51
+Porcentaje de valores únicos: 0.02%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Year
+Tipo: int64
+Total de valores únicos: 35
+Porcentaje de valores únicos: 0.02%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+Resumen variable numérica:
+Mínimo: 1896
+Máximo: 2016
+Promedio: 1989.6784896581164
+Percentil 25: 1976.0
+Percentil 50 (Median): 1992.0
+Percentil 75: 2006.0
+Percentil 100: 2016
+Cantidad de 0's: 0
+Porcentaje de 0's: 0.00%
+Cantidad de negativos: 0
+Porcentaje de negativos: 0.00%
+
+Variable: Season
+Tipo: object
+Total de valores únicos: 2
+Porcentaje de valores únicos: 0.00%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: City
+Tipo: object
+Total de valores únicos: 42
+Porcentaje de valores únicos: 0.02%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Sport
+Tipo: object
+Total de valores únicos: 56
+Porcentaje de valores únicos: 0.03%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Event
+Tipo: object
+Total de valores únicos: 590
+Porcentaje de valores únicos: 0.29%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: Medal
+Tipo: object
+Total de valores únicos: 4
+Porcentaje de valores únicos: 0.00%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+
+Variable: age
+Tipo: float64
+Total de valores únicos: 61
+Porcentaje de valores únicos: 0.03%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+Resumen variable numérica:
+Mínimo: 11.0
+Máximo: 71.0
+Promedio: 25.05473631107144
+Percentil 25: 21.0
+Percentil 50 (Median): 24.0
+Percentil 75: 28.0
+Percentil 100: 71.0
+Cantidad de 0's: 0
+Porcentaje de 0's: 0.00%
+Cantidad de negativos: 0
+Porcentaje de negativos: 0.00%
+
+Variable: height
+Tipo: float64
+Total de valores únicos: 94
+Porcentaje de valores únicos: 0.05%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+Resumen variable numérica:
+Mínimo: 127.0
+Máximo: 226.0
+Promedio: 175.3720555706469
+Percentil 25: 168.0
+Percentil 50 (Median): 175.0
+Percentil 75: 183.0
+Percentil 100: 226.0
+Cantidad de 0's: 0
+Porcentaje de 0's: 0.00%
+Cantidad de negativos: 0
+Porcentaje de negativos: 0.00%
+
+Variable: weight
+Tipo: float64
+Total de valores únicos: 217
+Porcentaje de valores únicos: 0.11%
+Número de valores nulos: 0
+Porcentaje de valores nulos: 0.00%
+Resumen variable numérica:
+Mínimo: 25.0
+Máximo: 214.0
+Promedio: 70.68833191043502
+Percentil 25: 60.0
+Percentil 50 (Median): 70.0
+Percentil 75: 79.0
+Percentil 100: 214.0
+Cantidad de 0's: 0
+Porcentaje de 0's: 0.00%
+Cantidad de negativos: 0
+Porcentaje de negativos: 0.00%
+
